@@ -1,0 +1,5 @@
+target/*
+.idea
+chapters/*
+.ipynb_checkpoints/*
+venv/*
